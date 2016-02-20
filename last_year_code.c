@@ -1,3 +1,5 @@
+
+//makes sure to update the motor references for the new robot!
 #pragma config(Motor,  port1,           Cubeholder,    tmotorVex393, openLoop)
 #pragma config(Motor,  port2,           FrontLeftDrive, tmotorVex393, openLoop, reversed)
 #pragma config(Motor,  port3,           FrontRightDrive, tmotorVex393, openLoop)
